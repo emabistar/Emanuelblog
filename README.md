@@ -1,1 +1,1 @@
-## Emanuel Blog using asp.net.core razor app with bootsrap template
+## Emanuel Blog using asp.net.core blazor app with bootsrap template
